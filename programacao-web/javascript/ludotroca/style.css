@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+header{
+    padding: 0 148px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+
+header .logo{
+    width: 20%;
+    height: 80%;
+}
+
+header .logo img{
+    height: 100%;
+}
+
+header nav{
+    display: flex;
+    width: 80%;
+    justify-content: end;
+}
+
+header nav ul li{
+    display: inline;
+    padding: 15px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #d47f00;
+    font-weight: bolder;
+}
+
+header nav ul li a:hover{
+    color: #6b4000;
+}
+
+main{
+    padding: 0 148px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+main section .jogos{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 1%;
+}
+
+main section .jogos .item{
+    width: 24%;
+    border-radius: 6px;
+    box-shadow: 0 5px 80px rgba(0, 0, 0, 0.1);
+}
+
+main section .jogos img{
+    width: 100%;
+    border-radius: 6px;
+}
+
+main section .jogos h4{
+    color:#6b4000;
+    font-weight: bolder;
+    margin: 5px 10px;
+}
+
+main section .jogos p{
+    font-size: .7em;
+    margin: 5px 10px;
+}
+
+main section .jogos .preco{
+    display: inline;
+    margin: 5px 10px;
+    padding: 3px;
+    border: 1px solid #d47f00;
+    border-radius: 3px;
+    color:#d47f00;
+}
+
+main section .jogos .disponivel{
+    font-size: .7em;
+    margin: 5px 10px;
+    color: #3ED400;
+}
+
+main section .jogos .indisponivel{
+    font-size: .7em;
+    margin: 5px 10px;
+    color: #D43600;
+}
+
+main section .jogos .pedir{
+    display: block;
+    text-decoration: none;
+    width: 100%;
+    color: #fff;
+    background-color: #d47f00;
+    text-align: center;
+    border-radius: 0 0 6px 6px;
+    padding: 10px 0;
+    margin-top: 15px;
+}
+
+main section .jogos .pedir:hover{
+    background-color: #6b4000;
+}
+
+footer{
+    height: 100px;
+    padding: 50px 148px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    background-color: #d47f00;
+}
+
+footer .logo{
+    width: 25%;
+    height: 100%;
+}
+
+footer .logo img{
+    height: 100%;
+    mix-blend-mode: color-burn;
+}
+
+footer p{
+    color: #fff;
+}
+
+footer .sobre{
+    width: 75%;
+    display: flex;
+    justify-content: end;
+}
+
+/* LOGIN */
+
+.corpo{
+    background-color: #d47f00;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    height: 100vh;
+}
+
+.corpo .login{
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+    width: 768px;
+    max-width: 100%;
+    min-height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.corpo .login img{
+    width: 12%;
+}
+
+.corpo .login p{
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    margin: 20px 0;
+}
+
+.corpo .login a{
+    color: #6b4000;
+    font-size: 13px;
+    text-decoration: none;
+    margin: 15px 0 10px;
+}
+
+.corpo .login button{
+    background-color: #6b4000;
+    color: #fff;
+    font-size: 12px;
+    padding: 10px 45px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.corpo .login form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 40px;
+    height: 100%;
+    width: 50%;
+}
+
+.corpo .login input{
+    background-color: #eee;
+    border: none;
+    margin: 8px 0;
+    padding: 10px 15px;
+    font-size: 13px;
+    border-radius: 3px;
+    width: 100%;
+    outline: none;
+}
+
+
+/* PEDIDO */
+
+main .pedido{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main .pedido .pedido-img{
+    width: 25%;
+}
+
+main .pedido .pedido-img img{
+    border-radius: 6px;
+}
+
+main .pedido .pedido-corpo{
+    width: 75%;
+}
+
+main .pedido .pedido-corpo a{
+    color: #d47f00;
+}
+
+main .pedido .pedido-corpo .preco{
+    display: block;
+    font-size: 1.2em;
+    margin: 15px 20px;
+    padding: 10px;
+    border: 1px solid #d47f00;
+    border-radius: 3px;
+    color:#d47f00;
+}
+
+.pedido .pedido-corpo .disponivel{
+    margin: 15px 20px;
+    color: #3ED400;
+}
+
+main .pedido .pedido-periodo{
+    width: 100%;
+}
+
+main .pedido .pedido-periodo a{
+    display: inline-block;
+    text-decoration: none;
+    width: 15%;
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: #D4B200;
+    color: #D4B200;
+    border: 1px solid #D4B200;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+main .pedido .pedido-periodo .selecionado{
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: #D4B200;
+}
+
+main .pedido .pedido-periodo a:hover{
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: #D4B200;
+}
+
+main .pedido .pedido-botao .pedir{
+    display: block;
+    text-decoration: none;
+    width: 100%;
+    color: #fff;
+    background-color: #d47f00;
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px 0;
+    margin-top: 15px;
+}
+
+main .pedido{
+    box-shadow: 0 5px 80px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    background-color: #efefef;
+
+}

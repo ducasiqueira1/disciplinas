@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {
+    background-color: #fff;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+
+header{
+    background-color: white;
+    border-bottom: 5px solid #e0160d;
+}
+
+header img{
+    width: 60%;
+}
+
+.flex-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 55px;
+}
+
+
+.card{
+    background-color: #fff;
+    width: 500px;
+    border: 2px solid #1a1a1f;
+    border-radius: 10px;
+    color: #1a1a1f;
+    padding: 2px;
+}
+
+.img-driver{
+    border-bottom: 2px solid #1a1a1f;
+    border-radius: 10px;
+    background-color: #e0160d;
+}
+
+.img-driver img{
+    width: 50%;    
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:30px 30px 30px;
+    width: 100%;    
+}
+
+.atributes {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    width: 100%;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+
+.busca-btn {
+    margin: 5px;
+    width: 45%;
+    border: 2px solid #000;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #e0160d;
+  }
+
+
+footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    background-color: #e0160d;
+    color: #fff;
+}
