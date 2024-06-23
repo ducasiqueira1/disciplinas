@@ -8,30 +8,27 @@
 
 - [📄 Currículo Lattes](http://lattes.cnpq.br/1383558830607731)
 - [💻 Códigos-fonte](https://gitlab.com/ecsiqueira35)
-
-## 📬 Contato
-
-[✉️ Email](mailto:eduardo.siqueira@ifb.edu.br)
-[📹 YouTube](https://www.youtube.com/channel/UCSopjE1rnNcg175Wb0acHzw)
-[📸 Instagram](http://instagram.com/profduca)
+- [✉️ Email](mailto:eduardo.siqueira@ifb.edu.br)
+- [📹 YouTube](https://www.youtube.com/channel/UCSopjE1rnNcg175Wb0acHzw)
+- [📸 Instagram](http://instagram.com/profduca)
 
 ## 📚 Linhas de Pesquisa
 
-### 🤖 Machine Learning
+- 🤖 **Machine Learning**:
 Transformando dados em conhecimento, de forma inteligente e eficiente.
 
-### 📊 Inteligência Computacional para Otimização
+- 📊 **Inteligência Computacional**: para Otimização
 Maximizando resultados e minimizando esforços.
 
-### 🔍 Otimização Combinatória
+- 🔍 **Otimização Combinatória**:
 Desvendando eficiência na simplicidade das escolhas.
 
-### 🖥️ Informática na Educação
+- 🖥️ **Informática na Educação**:
 Capacitando alunos e educadores a explorarem um novo horizonte de possibilidades educativas.
 
 ## 📄 Licença
 
-A permissão para de usar, copiar, modificar, mesclar, publicar, distribuir, é concedida, gratuitamente, a qualquer pessoa, desde que seja para fins pessoais e/ou didáticos. A venda total ou parcial deste software é proibida!
+A permissão para de usar, copiar, modificar, mesclar, publicar, distribuir, é concedida, gratuitamente, a qualquer pessoa, desde que seja para fins pessoais e/ou didáticos. **A venda total ou parcial deste software é proibida!**
 
 ---
 ⌨️ por [Duca Siqueira](https://duca.pro.br) 😊.
