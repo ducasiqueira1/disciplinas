@@ -12,6 +12,11 @@
 - [📹 YouTube](https://www.youtube.com/channel/UCSopjE1rnNcg175Wb0acHzw)
 - [📸 Instagram](http://instagram.com/profduca)
 
+## 👨‍🏫  Disciplinas
+
+- [💻 Informática](https://gitlab.com/ecsiqueira35/informatica)
+- [🖥️ Programação Web](https://gitlab.com/ecsiqueira35/programacao-web)
+
 ## 📚 Linhas de Pesquisa
 
 - 🤖 **Machine Learning**:
