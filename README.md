@@ -14,8 +14,11 @@
 
 ## 👨‍🏫  Disciplinas
 
-- [💻 Informática](https://gitlab.com/ecsiqueira35/codigos-fonte/informatica)
-- [🖥️ Programação Web](https://gitlab.com/ecsiqueira35/codigos-fonte/programacao-web)
+- 💻 Informática
+- 🦾 Inteligência Artificial
+- </> Programação Web
+- 📱 Programação Móvel
+- 📄 Projeto Integrador I
 
 ## 📚 Linhas de Pesquisa
 
