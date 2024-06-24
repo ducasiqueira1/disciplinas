@@ -14,8 +14,8 @@
 
 ## 👨‍🏫  Disciplinas
 
-- [💻 Informática](https://gitlab.com/ecsiqueira35/informatica)
-- [🖥️ Programação Web](https://gitlab.com/ecsiqueira35/programacao-web)
+- [💻 Informática](https://gitlab.com/ecsiqueira35/codigos-fonte/informatica)
+- [🖥️ Programação Web](https://gitlab.com/ecsiqueira35/codigos-fonte/programacao-web)
 
 ## 📚 Linhas de Pesquisa
 
