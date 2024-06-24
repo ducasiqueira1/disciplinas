@@ -4,11 +4,7 @@ Olá, estudante, seja bem-vindo! 👋
 
 Espero que esteja tudo bem com você.
 
-Eu sou o Duca, seu professor de Informática neste semestre.
-
-👨🏻‍🏫 Prof. Eduardo Camargo de Siqueira
-
-Vamos ao plano de ensino desta disciplina.
+Eu sou o 👨🏻‍🏫 Prof. Eduardo Camargo de Siqueira, seu professor de Informática neste semestre. Vamos ao plano de ensino desta disciplina.
 
 
 ## Metodologia
