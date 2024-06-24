@@ -25,7 +25,7 @@
 - 🤖 **Machine Learning**:
 Transformando dados em conhecimento, de forma inteligente e eficiente.
 
-- 📊 **Inteligência Computacional**: para Otimização
+- 📊 **Inteligência Computacional para Otimização**: 
 Maximizando resultados e minimizando esforços.
 
 - 🔍 **Otimização Combinatória**:
