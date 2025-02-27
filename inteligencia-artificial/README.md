@@ -2,11 +2,11 @@
 
 Este repositório contém materiais sobre Inteligência Artificial, organizados em três diretórios principais:
 
-📂 aulas – Notebooks e scripts utilizados para ensino e aprendizado.
+📂 aulas – material didático utilizados para ensino e aprendizado.
 
-📂 lista-exercicios – Conjunto de exercícios práticos para aprimorar habilidades.
+📂 lista-exercicios – conjunto de exercícios práticos para aprimorar habilidades.
 
-📂 machine-learning – Implementações de algoritmos e experimentos em aprendizado de máquina.
+📂 machine-learning – implementações de algoritmos e experimentos em aprendizado de máquina.
 
 ## Aulas
 
@@ -27,7 +27,7 @@ Este repositório contém materiais sobre Inteligência Artificial, organizados 
 
 ## ❤️ Contribuição
 
-Se você deseja contribuir com novos códigos, notebooks ou datasets para este repositório, sinta-se à vontade para abrir uma pull request. Teremos prazer em revisar suas contribuições.
+Se você deseja contribuir com novos códigos, notebooks ou datasets para este repositório, sinta-se à vontade para abrir uma pull request. Teremos prazer em revisar suas contribuições. Se você encontrar algum erro ou tiver alguma dúvida, envie um e-mail: eduardo.siqueira@ifb.edu.br.Obrigado por contribuir e espero que você aprenda bastante com este material!
 
 ## 📄 Licença
 
