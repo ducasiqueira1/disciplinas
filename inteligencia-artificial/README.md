@@ -27,7 +27,7 @@ Este repositório contém materiais sobre Inteligência Artificial, organizados 
 
 ## ❤️ Contribuição
 
-Se você deseja contribuir com novos códigos, notebooks ou datasets para este repositório, sinta-se à vontade para abrir uma pull request. Teremos prazer em revisar suas contribuições. Se você encontrar algum erro ou tiver alguma dúvida, envie um e-mail: eduardo.siqueira@ifb.edu.br.Obrigado por contribuir e espero que você aprenda bastante com este material!
+Se você deseja contribuir com novos códigos, notebooks ou datasets para este repositório, sinta-se à vontade para abrir uma pull request. Teremos prazer em revisar suas contribuições. Se você encontrar algum erro ou tiver alguma dúvida, envie um e-mail: eduardo.siqueira@ifb.edu.br. Obrigado por contribuir e espero que você aprenda bastante com este material!
 
 ## 📄 Licença
 
