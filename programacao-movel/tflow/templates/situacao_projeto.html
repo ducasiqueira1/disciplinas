@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Situação do Projeto - T-Flow</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>Olá, Maiara</h1>
+        </header>
+        <main class="project-status-container">
+            <h2>Situação do projeto</h2>
+            <div class="status-timeline">
+                <div class="status-item approved">
+                    <div class="status-icon">✓</div>
+                    <div class="status-label">aguardando aprovação</div>
+                    <div class="status-line"></div>
+                </div>
+                <div class="status-item approved">
+                    <div class="status-icon">✓</div>
+                    <div class="status-label">aprovado</div>
+                    <div class="status-line yellow"></div>
+                </div>
+                <div class="status-item in-progress">
+                    <div class="status-icon loading"><span></span></div>
+                    <div class="status-label">em execução</div>
+                    <div class="status-line red"></div>
+                </div>
+                <div class="status-item finished-error">
+                    <div class="status-icon error">!</div>
+                    <div class="status-label">finalizado</div>
+                </div>
+            </div>
+
+            <div class="related-info">
+                <div class="list-item">
+                    <h3>List item</h3>
+                    <p>Supporting line text lorem ipsum dolor sit amet, consectetur</p>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
