@@ -91,26 +91,4 @@ curl -X DELETE http://127.0.0.1:5000/api/livros/1
 
 ---
 
-## 🧪 Discussão acadêmica
-
-- **REST (Representational State Transfer):** estilo arquitetural que orienta o design de serviços web.  
-- **Métodos HTTP:**
-  - `GET`: consulta de recursos
-  - `POST`: criação de novos recursos
-  - `DELETE`: remoção
-  - `PATCH`: atualização parcial  
-- **Documentação com Swagger:** permite que alunos e desenvolvedores testem os endpoints diretamente pelo navegador, sem a necessidade de ferramentas externas.  
-- **Banco em memória:** neste exemplo, os dados estão em uma lista Python. Em sistemas reais, utilizaríamos um **banco de dados relacional ou NoSQL**.
-
----
-
-## 📚 Referências
-
-- Fielding, R. T. *Architectural Styles and the Design of Network-based Software Architectures*. University of California, Irvine, 2000.  
-- [Flask Documentation](https://flask.palletsprojects.com/)  
-- [Flasgger Documentation](https://github.com/flasgger/flasgger)  
-- Richardson, L. & Ruby, S. *RESTful Web Services*. O'Reilly Media, 2007.  
-
----
-
 ✍️ **Produzido para fins didáticos** no âmbito da disciplina de **Programação Web**.
