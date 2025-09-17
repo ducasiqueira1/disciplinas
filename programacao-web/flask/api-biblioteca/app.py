@@ -45,5 +45,17 @@ def remover_livro(lid):
             return "", 204  # No Content
     abort(404, description="Livro não encontrado")
 
+@app.patch("/api/livros/<int:lid>/disponibilidade")
+def atualizar_disponibilidade(lid):
+    data = request.get_json(force=True) or {}
+    if "disponivel" not in data:
+        abort(400, description="Campo obrigatório: disponivel (True/False)")
+
+    for item in livros:
+        if item["id"] == lid:
+            item["disponivel"] = bool(data["disponivel"])
+            return jsonify(item)  # 200
+    abort(404, description="Livro não encontrado")
+
 if __name__ == "__main__":
     app.run(debug=True)
