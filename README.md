@@ -64,6 +64,8 @@ Os materiais podem ser utilizados em estudos, aulas, práticas de laboratório e
 
 Desenvolvido por [Duca Siqueira](https://duca.pro.br).
 
-![Logotipo do IFB](assets/ifb.png)
-![Logotipo do Samsung Ocean](assets/ocean.png)
-![Logotipo do AILAB](assets/ailab.png)
+<p align="left">
+  <img src="assets/ifb.png" alt="Logotipo do IFB" width="120">
+  <img src="assets/ocean.png" alt="Logotipo do Samsung Ocean" width="120">
+  <img src="assets/ailab.png" alt="Logotipo do AILAB" width="120">
+</p>
