@@ -1,42 +1,69 @@
-# Códigos-fonte de Eduardo Camargo de Siqueira
+# Repositório de Disciplinas e Códigos-Fonte
 
-👨‍🏫 Professor de Informática no [IFB - Campus São Sebastião](https://www.ifb.edu.br/saosebastiao) desde Novembro de 2021. Formado em Ciência da Computação, com mestrado e doutorado na área de **Modelagem Matemática e Computacional**. 
-🔬 Pesquisador no [AILAB - UnB](https://ailab.unb.br/) e no [CEFET-MG](https://www.cefetmg.br/), onde atua em projetos voltados a **Machine Learning** e **Inteligência Computacional**. 
-💻 Também possui experiência em Pesquisa Operacional, Métodos Numéricos Computacionais e Programação C/C++, PHP e Python.
+Materiais didáticos, códigos de exemplo, notebooks, datasets e projetos utilizados nas disciplinas e atividades acadêmicas do professor **Eduardo Camargo de Siqueira**.
 
-## 🔗 Links
+Este repositório reúne conteúdos de programação, inteligência artificial, desenvolvimento web, desenvolvimento móvel e informática aplicada, com foco em ensino, experimentação e apoio a projetos acadêmicos.
 
-- [📄 Currículo Lattes](http://lattes.cnpq.br/1383558830607731)
-- [💻 Códigos-fonte](https://gitlab.com/ecsiqueira35)
-- [✉️ Email](mailto:eduardo.siqueira@ifb.edu.br)
-- [📹 YouTube](https://www.youtube.com/channel/UCSopjE1rnNcg175Wb0acHzw)
-- [📸 Instagram](http://instagram.com/profduca)
+## Sobre o Autor
 
-## 👨‍🏫  Disciplinas
+Eduardo Camargo de Siqueira é professor de Tecnologia da Informação no [IFB - Campus São Sebastião](https://www.ifb.edu.br/saosebastiao), com atuação em ensino, pesquisa, inovação, extensão e gestão acadêmica.
 
-- 💻 Informática
-- 🦾 Inteligência Artificial
-- </> Programação Web
-- 📱 Programação Móvel
-- 📄 Projeto Integrador I
+Possui graduação em Ciência da Computação pela Universidade Evangélica de Goiás, mestrado e doutorado em Modelagem Matemática e Computacional pelo CEFET-MG, e realiza pós-doutorado na Universidade de Brasília (UnB), com foco em inteligência artificial aplicada.
 
-## 📚 Linhas de Pesquisa
+Atua como pesquisador no [AILAB - UnB](https://ailab.unb.br/), participando de projetos de pesquisa e desenvolvimento relacionados a IA aplicada em saúde digital, justiça, automação de processos, processamento de linguagem natural, extração de informações em documentos e apoio à tomada de decisão.
 
-- 🤖 **Machine Learning**:
-Transformando dados em conhecimento, de forma inteligente e eficiente.
+Também integra iniciativas de capacitação tecnológica e empreendedora no âmbito do Samsung Ocean, contribuindo para a formação de profissionais e para o desenvolvimento de soluções inovadoras.
 
-- 📊 **Inteligência Computacional para Otimização**: 
-Maximizando resultados e minimizando esforços.
+## Conteúdo do Repositório
 
-- 🔍 **Otimização Combinatória**:
-Desvendando eficiência na simplicidade das escolhas.
+| Área | Descrição |
+| --- | --- |
+| [Inteligência Artificial](inteligencia-artificial/) | Aulas, notebooks, experimentos e materiais sobre IA e aprendizado de máquina. |
+| [Programação Web](programacao-web/) | Projetos e exemplos com HTML, CSS, JavaScript, Flask e APIs. |
+| [Programação Móvel](programacao-movel/) | Projetos e protótipos relacionados ao desenvolvimento de aplicações móveis. |
+| [Outras Atividades](outras/) | Notebooks, datasets e materiais complementares para aulas e projetos. |
 
-- 🖥️ **Informática na Educação**:
-Capacitando alunos e educadores a explorarem um novo horizonte de possibilidades educativas.
+## Disciplinas
 
-## 📄 Licença
+- Inteligência Artificial
+- Programação Web
+- Programação Móvel
+- Sistemas Computacionais
+- Informática aplicada
 
-A permissão para de usar, copiar, modificar, mesclar, publicar, distribuir, é concedida, gratuitamente, a qualquer pessoa, desde que seja para fins pessoais e/ou didáticos. **A venda total ou parcial deste software é proibida!**
+## Linhas de Pesquisa
+
+- **Machine Learning**: transformação de dados em conhecimento por meio de modelos computacionais.
+- **Inteligência Computacional para Otimização**: métodos inteligentes para apoiar decisões e melhorar resultados.
+- **Otimização Combinatória**: busca por soluções eficientes em problemas com muitas possibilidades.
+- **Digital Health**: aplicação de tecnologias da informação e comunicação no contexto da saúde.
+- **Processamento de Linguagem Natural**: análise, extração e organização de informações em textos e documentos.
+
+## Links
+
+- [Currículo Lattes](http://lattes.cnpq.br/1383558830607731)
+- [GitLab](https://gitlab.com/ecsiqueira35)
+- [Site pessoal](https://duca.pro.br)
+- [YouTube](https://www.youtube.com/channel/UCSopjE1rnNcg175Wb0acHzw)
+- [Instagram](http://instagram.com/profduca)
+- [Email](mailto:eduardo.siqueira@ifb.edu.br)
+
+## Como Usar
+
+Navegue pelas pastas de acordo com a disciplina ou tema de interesse. Cada diretório pode conter seus próprios arquivos `README.md`, notebooks, datasets, projetos e instruções específicas.
+
+Os materiais podem ser utilizados em estudos, aulas, práticas de laboratório e projetos acadêmicos. Quando houver dependências específicas, consulte o `README.md` do projeto correspondente ou os arquivos `requirements.txt`.
+
+## Licença
+
+É permitida a utilização, cópia, modificação, mesclagem, publicação e distribuição deste material, gratuitamente, para fins pessoais e/ou didáticos.
+
+**A venda total ou parcial deste material é proibida.**
 
 ---
-⌨️ por [Duca Siqueira](https://duca.pro.br) 😊.
+
+Desenvolvido por [Duca Siqueira](https://duca.pro.br).
+
+![Logotipo do IFB](assets/ifb.png)
+![Logotipo do Samsung Ocean](assets/ocean.png)
+![Logotipo do AILAB](assets/ailab.png)
