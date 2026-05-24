@@ -1,10 +1,14 @@
-# Repositório de Disciplinas e Códigos-Fonte
+# 🚀 Repositório de Disciplinas e Códigos-Fonte
 
 Materiais didáticos, códigos de exemplo, notebooks, datasets e projetos utilizados nas disciplinas e atividades acadêmicas do professor **Eduardo Camargo de Siqueira**.
 
 Este repositório reúne conteúdos de programação, inteligência artificial, desenvolvimento web, desenvolvimento móvel e informática aplicada, com foco em ensino, experimentação e apoio a projetos acadêmicos.
 
-## Sobre o Autor
+<p align="left">
+  <img src="assets/office.png" alt="Logotipo do IFB" width="100%">
+</p>
+
+## ✨ Sobre o Autor
 
 Eduardo Camargo de Siqueira é professor de Tecnologia da Informação no [IFB - Campus São Sebastião](https://www.ifb.edu.br/saosebastiao), com atuação em ensino, pesquisa, inovação, extensão e gestão acadêmica.
 
@@ -14,7 +18,7 @@ Atua como pesquisador no [AILAB - UnB](https://ailab.unb.br/), participando de p
 
 Também integra iniciativas de capacitação tecnológica e empreendedora no âmbito do Samsung Ocean, contribuindo para a formação de profissionais e para o desenvolvimento de soluções inovadoras.
 
-## Conteúdo do Repositório
+## 🛠️ Conteúdo do Repositório
 
 | Área | Descrição |
 | --- | --- |
@@ -23,7 +27,7 @@ Também integra iniciativas de capacitação tecnológica e empreendedora no âm
 | [Programação Móvel](programacao-movel/) | Projetos e protótipos relacionados ao desenvolvimento de aplicações móveis. |
 | [Outras Atividades](outras/) | Notebooks, datasets e materiais complementares para aulas e projetos. |
 
-## Disciplinas
+## 💻 Disciplinas
 
 - Inteligência Artificial
 - Programação Web
@@ -31,7 +35,7 @@ Também integra iniciativas de capacitação tecnológica e empreendedora no âm
 - Sistemas Computacionais
 - Informática aplicada
 
-## Linhas de Pesquisa
+## 💡 Linhas de Pesquisa
 
 - **Machine Learning**: transformação de dados em conhecimento por meio de modelos computacionais.
 - **Inteligência Computacional para Otimização**: métodos inteligentes para apoiar decisões e melhorar resultados.
@@ -39,7 +43,7 @@ Também integra iniciativas de capacitação tecnológica e empreendedora no âm
 - **Digital Health**: aplicação de tecnologias da informação e comunicação no contexto da saúde.
 - **Processamento de Linguagem Natural**: análise, extração e organização de informações em textos e documentos.
 
-## Links
+## 🔥 Links
 
 - [Currículo Lattes](http://lattes.cnpq.br/1383558830607731)
 - [GitLab](https://gitlab.com/ecsiqueira35)
@@ -48,13 +52,17 @@ Também integra iniciativas de capacitação tecnológica e empreendedora no âm
 - [Instagram](http://instagram.com/profduca)
 - [Email](mailto:eduardo.siqueira@ifb.edu.br)
 
-## Como Usar
+## 🛠️ Como Usar
 
 Navegue pelas pastas de acordo com a disciplina ou tema de interesse. Cada diretório pode conter seus próprios arquivos `README.md`, notebooks, datasets, projetos e instruções específicas.
 
 Os materiais podem ser utilizados em estudos, aulas, práticas de laboratório e projetos acadêmicos. Quando houver dependências específicas, consulte o `README.md` do projeto correspondente ou os arquivos `requirements.txt`.
 
-## Licença
+## ❤️ Contribuição
+
+Se você deseja contribuir com novos códigos, notebooks ou datasets para este repositório, sinta-se à vontade para abrir uma pull request. Teremos prazer em revisar suas contribuições. Se você encontrar algum erro ou tiver alguma dúvida, envie um e-mail: eduardo.siqueira@ifb.edu.br. Obrigado por contribuir e espero que você aprenda bastante com este material!
+
+## 📄 Licença
 
 É permitida a utilização, cópia, modificação, mesclagem, publicação e distribuição deste material, gratuitamente, para fins pessoais e/ou didáticos.
 
@@ -62,10 +70,8 @@ Os materiais podem ser utilizados em estudos, aulas, práticas de laboratório e
 
 ---
 
-Desenvolvido por [Duca Siqueira](https://duca.pro.br).
+⌨️ Desenvolvido por [Duca Siqueira](https://duca.pro.br).
 
-<p align="left">
-  <img src="assets/ifb.png" alt="Logotipo do IFB" width="120">
-  <img src="assets/ocean.png" alt="Logotipo do Samsung Ocean" width="120">
-  <img src="assets/ailab.png" alt="Logotipo do AILAB" width="120">
-</p>
+❤️ Instagram: [@profduca](https://instagram.com/profduca).
+
+
